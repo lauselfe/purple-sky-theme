@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "purple-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Purple Sky Theme 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A theme for VS Code based in purple and pink tones miked with a cold palette. 
+This is a WIP. Colors and style will be changing in next version until I find the right ones. I made this theme thinking in the languages I'm using right now for my projects (Javascript, HTML, CSS and PHP) so maybe this could not look nice in others. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+If you feel curious about how this look you can clone it and try it yourself:
 
-**Enjoy!**
+Change to your Visual Studio Code extensions directory:
+
+# Windows
+$ cd %USERPROFILE%\.vscode\extensions
+
+# Linux & macOS
+$ cd ~/.vscode/extensions/
+
+Clone repository as goodvibe:
+
+$ git clone https://github.com/claudioc/vscode-goodvibe claudioc.goodvibe
+
+Now you can select this theme from the Theme selector in VSC
+License
+
+This work is licensed under the MIT license
