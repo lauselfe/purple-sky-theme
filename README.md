@@ -15,7 +15,7 @@ $ cd ~/.vscode/extensions/
 
 Clone repository as goodvibe:
 
-$ git clone https://github.com/claudioc/vscode-goodvibe claudioc.goodvibe
+$ git clone https://github.com/lauselfe/purple-sky-theme 
 
 Now you can select this theme from the Theme selector in VSC
 License
