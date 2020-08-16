@@ -2,7 +2,6 @@
 	"name": "Purple Sky Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
@@ -21,10 +20,13 @@
         "editorGroupHeader.tabsBackground": "#5900ff86",
         "editorLineNumber.activeForeground": "#e100ff",
         "editorLineNumber.foreground": "#976ef7d5",
-        "editor.background": "#1a0636",
+        "editor.background": "#1B1F3B",
         "editor.selectionBackground": "#d1a2f0",
 		"editor.wordHighlightBackground": "#2427c9",
-		/**/
+		"sideBar.background": "#222150"
+		/*
+		#454ADE ---->
+		*/
 	},
 	"tokenColors": [
 		{
@@ -45,7 +47,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#eb41e2"
+				"foreground": "#ff81cf"
 			}
 		},
 		{
@@ -106,7 +108,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f08cd7"
+				"foreground": "#ff76dd"
 			}
 		},
 		{
@@ -119,7 +121,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#8077ff"
+				"foreground": "#c979ff"
 			}
 		},
 		{
@@ -128,7 +130,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#752dc7"
+				"foreground": "#9866e9"
 			}
 		},
 		{
@@ -154,7 +156,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#6cc4f7"
+				"foreground": "#1c7db6"
 			}
 		},
 		{
@@ -169,7 +171,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#84d1d6",
+				"foreground": "#2fb6c0",
 				"fontStyle": "italic"
 			}
 		},
@@ -279,7 +281,8 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#d465cb"
+				"foreground": "#dd439d",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -288,7 +291,8 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#828fff"
+				"foreground": "#828fff",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
