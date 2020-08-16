@@ -1,4 +1,4 @@
-Purple Sky Theme 
+#Purple Sky Theme 
 
 A theme for VS Code based in purple and pink tones miked with a cold palette. 
 This is a WIP. Colors and style will be changing in next version until I find the right ones. I made this theme thinking in the languages I'm using right now for my projects (Javascript, HTML, CSS and PHP) so maybe this could not look nice in others. 
